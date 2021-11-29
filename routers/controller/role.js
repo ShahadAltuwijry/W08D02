@@ -17,3 +17,14 @@ const create = (req, res) => {
       res.send(err);
     });
 };
+
+const getRoles = (req, res) => {
+  roleModel
+    .find({})
+    .then((result) => {
+      res.send(result);
+    })
+    .catch((err) => {
+      res.send(err);
+    });
+};
