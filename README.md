@@ -6,7 +6,7 @@ This project will help you set the basic steps for authenticating users securely
 
 # Cloneing this repostry
 
-First thing you need to do is cloning this repository to use it as a base to bulid your own work on it:
+First thing you need to do is clone this repository to use it as a base to bulid your own work on it:
 
 `git clone https://github.com/ShahadAltuwijry/W08D02.git`
 
