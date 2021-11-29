@@ -16,7 +16,7 @@ after cloning the repository, you have to download the packages used in this pro
 
 `npm i `
 
-_already have you schemas and just need the Authenticating part? you only need to:_
+_already have your own schemas and just need the Authenticating part? you only need to:_
 
 ## Download needed packages for Hashing & Authenticating
 
