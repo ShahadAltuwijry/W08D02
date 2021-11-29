@@ -28,9 +28,9 @@ _already have your own schemas and just need the Authenticating part? you only n
 
 # Documentation that might help you
 
-- [express js docs] (https://expressjs.com/)
-- [dotenv docs] (https://www.npmjs.com/package/dotenv)
-- [mongoose ] (https://www.npmjs.com/package/mongoose)
-- [bcrypt docs] (https://www.npmjs.com/package/bcrypt)
-- [json web token docs] (https://www.npmjs.com/package/jsonwebtoken)
+- [express js docs](https://expressjs.com/)
+- [dotenv docs](https://www.npmjs.com/package/dotenv)
+- [mongoose ](https://www.npmjs.com/package/mongoose)
+- [bcrypt docs](https://www.npmjs.com/package/bcrypt)
+- [json web token docs](https://www.npmjs.com/package/jsonwebtoken)
 
