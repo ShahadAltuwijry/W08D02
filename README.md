@@ -1,7 +1,8 @@
 # Registration & login Authentication
 
 This project will help you set the basic steps for authenticating users securely useing:
-json web token & bcrypt.
+- json web token
+- bcrypt.
 
 # Cloneing this repostry
 
