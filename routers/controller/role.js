@@ -28,3 +28,5 @@ const getRoles = (req, res) => {
       res.send(err);
     });
 };
+
+module.exports = { create, getRoles };
